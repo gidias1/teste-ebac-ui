@@ -1,0 +1,22 @@
+[
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "L",
+        "cor": "Red",
+        "quantidade": 5
+    },
+
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "XS",
+        "cor": "Red",
+        "quantidade": 10
+    },
+
+    {
+        "nomeProduto": "Ingrid Running Jacket",
+        "tamanho": "XS",
+        "cor": "White",
+        "quantidade": 4
+    }
+]

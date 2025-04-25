@@ -171,7 +171,8 @@
     "yauzl": "^2.10.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run --browser chrome",
+    "cy:dash" : "npx cypress run --record --key a8c99d85-ee94-44f2-88a8-e5471a30c7f8"
   },
   "keywords": [],
   "author": "",
